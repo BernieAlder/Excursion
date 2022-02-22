@@ -6,9 +6,10 @@ body {
 
 #title{
     font-size: 50px;
-    font-weight: normal;
+    font-weight: 200;
     color: white;
-    text-align: center;
+    text-align: centered;
+    font-family: verdana;
 }
 
 a {
@@ -16,4 +17,20 @@ a {
     color: aquamarine;
     background-color: black;
     font-size: 16px;
+    font-family: verdana;
+    font-weight: 100;
+}
+
+h2{
+  color: white;  
+  font-size: 42px;
+  font-weight: 300;
+  font-family: verdana;
+}
+
+h3{
+  color: gray;
+  font-size: 21px;  
+  font-family: verdana;
+  font-weight: 100;
 }
