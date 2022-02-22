@@ -5,7 +5,7 @@ body {
 }
 
 #title{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 200;
     color: white;
     text-align: centered;
@@ -33,4 +33,12 @@ h3{
   font-size: 21px;  
   font-family: verdana;
   font-weight: 100;
+}
+
+h6{
+ text-align: right;
+ color: gray;
+ font-family: verdana;
+ font-size: 20px;
+ font-weight: 100;
 }
